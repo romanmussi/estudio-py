@@ -8,7 +8,7 @@ Probando modificar y editar, incluyendo salto de linea. Funciona ok.
 
 Texto en **negrita**
 
-[Prueba de link] (www.nitrico.com.ar)
+[Prueba de link] (http://www.nitrico.com.ar)
 
 Lista
 * Uno
