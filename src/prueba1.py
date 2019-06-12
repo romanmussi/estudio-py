@@ -5,7 +5,9 @@ Created on 9 may. 2019
 '''
 
 #agregado desde pc estudio
-#probando commit con autor 
+#probando commit con autor
+#probando configurar autor
+
 from imprime import imprime_vertical, imprime_horizontal
 
 _h = imprime_horizontal
