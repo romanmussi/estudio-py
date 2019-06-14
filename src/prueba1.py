@@ -15,6 +15,8 @@ _v = imprime_vertical
 
 #otro agregado en note, misma linea que agregado en pc estudio
 
+#agregado desde pc estudio
+
 texto = "hola mundo"
 _h(texto)
 _v(texto)
