@@ -13,6 +13,8 @@ _v = imprime_vertical
 
 #agregado desde note para evaluar como impacta en pc estudio
 
+#agregado desde pc estudio
+
 texto = "hola mundo"
 _h(texto)
 _v(texto)
