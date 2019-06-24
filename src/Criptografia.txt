@@ -1,5 +1,4 @@
-
-Tutoriales sobre cifrado y criptografia
+Tutoriales sobre cifrado y criptografía
 
 https://www.tutorialspoint.com/cryptography_with_python/cryptography_with_python_quick_guide.htm
 https://stackoverflow.com/questions/2490334/simple-way-to-encode-a-string-according-to-a-password
